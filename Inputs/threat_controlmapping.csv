@@ -1,0 +1,717 @@
+Threats,Controls
+Backdoor (enable remote access),CSC 2-1
+Backdoor (enable remote access),CSC 2-2
+Backdoor (enable remote access),CSC 2-3
+Backdoor (enable remote access),CSC 2-4
+Backdoor (enable remote access),CSC 2-5
+Backdoor (enable remote access),CSC 2-6
+Backdoor (enable remote access),CSC 2-7
+Backdoor (enable remote access),CSC 2-8
+Backdoor (enable remote access),CSC 2-9
+Backdoor (enable remote access),CSC 3-1
+Backdoor (enable remote access),CSC 3-2
+Backdoor (enable remote access),CSC 3-3
+Backdoor (enable remote access),CSC 3-4
+Backdoor (enable remote access),CSC 3-5
+Backdoor (enable remote access),CSC 3-6
+Backdoor (enable remote access),CSC 3-7
+Backdoor (enable remote access),CSC 3-8
+Backdoor (enable remote access),CSC 3-9
+Backdoor (enable remote access),CSC 3-10
+Backdoor (enable remote access),CSC 4-1
+Backdoor (enable remote access),CSC 4-2
+Backdoor (enable remote access),CSC 4-3
+Backdoor (enable remote access),CSC 4-4
+Backdoor (enable remote access),CSC 4-5
+Backdoor (enable remote access),CSC 4-6
+Backdoor (enable remote access),CSC 4-7
+Backdoor (enable remote access),CSC 4-8
+Backdoor (enable remote access),CSC 4-9
+Backdoor (enable remote access),CSC 4-10
+Backdoor (enable remote access),CSC 5-1
+Backdoor (enable remote access),CSC 5-2
+Backdoor (enable remote access),CSC 5-3
+Backdoor (enable remote access),CSC 5-4
+Backdoor (enable remote access),CSC 5-5
+Backdoor (enable remote access),CSC 5-6
+Backdoor (enable remote access),CSC 5-7
+Backdoor (enable remote access),CSC 5-8
+Backdoor (enable remote access),CSC 5-9
+Backdoor (enable remote access),CSC 5-10
+Backdoor (enable remote access),CSC 5-11
+Backdoor (enable remote access),CSC 12-1
+Backdoor (enable remote access),CSC 12-2
+Backdoor (enable remote access),CSC 12-3
+Backdoor (enable remote access),CSC 12-4
+Backdoor (enable remote access),CSC 12-5
+Backdoor (enable remote access),CSC 12-6
+Backdoor (enable remote access),CSC 12-7
+Backdoor (enable remote access),CSC 12-8
+Backdoor (enable remote access),CSC 12-9
+Backdoor (enable remote access),CSC 12-10
+Backdoor (enable remote access),CSC 12-11
+Backdoor (enable remote access),CSC 12-12
+Backdoor (enable remote access),CSC 12-13
+Backdoor (enable remote access),CSC 12-14
+Backdoor (enable remote access),CSC 13-1
+Backdoor (enable remote access),CSC 13-2
+Backdoor (enable remote access),CSC 13-3
+Backdoor (enable remote access),CSC 13-4
+Backdoor (enable remote access),CSC 13-5
+Backdoor (enable remote access),CSC 13-6
+Backdoor (enable remote access),CSC 13-7
+Backdoor (enable remote access),CSC 13-8
+Backdoor (enable remote access),CSC 13-9
+Backdoor (enable remote access),CSC 13-10
+Backdoor (enable remote access),CSC 13-11
+Backdoor (enable remote access),CSC 13-12
+Backdoor (enable remote access),CSC 13-13
+Export data to another site or system,CSC 10-1
+Export data to another site or system,CSC 10-2
+Export data to another site or system,CSC 10-3
+Export data to another site or system,CSC 10-4
+Export data to another site or system,CSC 10-5
+Export data to another site or system,CSC 10-6
+Export data to another site or system,CSC 13-1
+Export data to another site or system,CSC 13-2
+Export data to another site or system,CSC 13-3
+Export data to another site or system,CSC 13-4
+Export data to another site or system,CSC 13-5
+Export data to another site or system,CSC 13-6
+Export data to another site or system,CSC 13-7
+Export data to another site or system,CSC 13-8
+Export data to another site or system,CSC 13-9
+Export data to another site or system,CSC 13-10
+Export data to another site or system,CSC 13-11
+Export data to another site or system,CSC 13-12
+Export data to another site or system,CSC 13-13
+Export data to another site or system,CSC 17-1
+Export data to another site or system,CSC 17-2
+Export data to another site or system,CSC 17-3
+Export data to another site or system,CSC 17-4
+Export data to another site or system,CSC 17-5
+Export data to another site or system,CSC 17-6
+Export data to another site or system,CSC 17-7
+Export data to another site or system,CSC 17-8
+Use of Backdoor or C2 channel,CSC 2-1
+Use of Backdoor or C2 channel,CSC 2-2
+Use of Backdoor or C2 channel,CSC 2-3
+Use of Backdoor or C2 channel,CSC 2-4
+Use of Backdoor or C2 channel,CSC 2-5
+Use of Backdoor or C2 channel,CSC 2-6
+Use of Backdoor or C2 channel,CSC 2-7
+Use of Backdoor or C2 channel,CSC 2-8
+Use of Backdoor or C2 channel,CSC 2-9
+Use of Backdoor or C2 channel,CSC 3-1
+Use of Backdoor or C2 channel,CSC 3-2
+Use of Backdoor or C2 channel,CSC 3-3
+Use of Backdoor or C2 channel,CSC 3-4
+Use of Backdoor or C2 channel,CSC 3-6
+Use of Backdoor or C2 channel,CSC 3-7
+Use of Backdoor or C2 channel,CSC 3-8
+Use of Backdoor or C2 channel,CSC 3-9
+Use of Backdoor or C2 channel,CSC 3-10
+Use of Backdoor or C2 channel,CSC 4-1
+Use of Backdoor or C2 channel,CSC 4-2
+Use of Backdoor or C2 channel,CSC 4-3
+Use of Backdoor or C2 channel,CSC 4-5
+Use of Backdoor or C2 channel,CSC 4-6
+Use of Backdoor or C2 channel,CSC 4-7
+Use of Backdoor or C2 channel,CSC 4-8
+Use of Backdoor or C2 channel,CSC 4-9
+Use of Backdoor or C2 channel,CSC 4-10
+Use of Backdoor or C2 channel,CSC 5-1
+Use of Backdoor or C2 channel,CSC 5-2
+Use of Backdoor or C2 channel,CSC 5-3
+Use of Backdoor or C2 channel,CSC 5-5
+Use of Backdoor or C2 channel,CSC 5-6
+Use of Backdoor or C2 channel,CSC 5-7
+Use of Backdoor or C2 channel,CSC 5-8
+Use of Backdoor or C2 channel,CSC 5-9
+Use of Backdoor or C2 channel,CSC 5-10
+Use of Backdoor or C2 channel,CSC 5-11
+Use of Backdoor or C2 channel,CSC 12-1
+Use of Backdoor or C2 channel,CSC 12-2
+Use of Backdoor or C2 channel,CSC 12-3
+Use of Backdoor or C2 channel,CSC 12-4
+Use of Backdoor or C2 channel,CSC 12-5
+Use of Backdoor or C2 channel,CSC 12-6
+Use of Backdoor or C2 channel,CSC 12-7
+Use of Backdoor or C2 channel,CSC 12-8
+Use of Backdoor or C2 channel,CSC 12-9
+Use of Backdoor or C2 channel,CSC 12-10
+Use of Backdoor or C2 channel,CSC 12-11
+Use of Backdoor or C2 channel,CSC 12-12
+Use of Backdoor or C2 channel,CSC 12-13
+Use of Backdoor or C2 channel,CSC 12-14
+Use of Backdoor or C2 channel,CSC 13-1
+Use of Backdoor or C2 channel,CSC 13-2
+Use of Backdoor or C2 channel,CSC 13-4
+Use of Backdoor or C2 channel,CSC 13-5
+Use of Backdoor or C2 channel,CSC 13-6
+Use of Backdoor or C2 channel,CSC 13-7
+Use of Backdoor or C2 channel,CSC 13-8
+Use of Backdoor or C2 channel,CSC 13-9
+Use of Backdoor or C2 channel,CSC 13-10
+Use of Backdoor or C2 channel,CSC 13-12
+Use of Backdoor or C2 channel,CSC 13-13
+Phishing,CSC 2-1
+Phishing,CSC 2-2
+Phishing,CSC 2-3
+Phishing,CSC 2-4
+Phishing,CSC 2-5
+Phishing,CSC 2-7
+Phishing,CSC 2-8
+Phishing,CSC 2-9
+Phishing,CSC 3-1
+Phishing,CSC 3-2
+Phishing,CSC 3-4
+Phishing,CSC 3-5
+Phishing,CSC 3-6
+Phishing,CSC 3-7
+Phishing,CSC 3-8
+Phishing,CSC 3-9
+Phishing,CSC 3-10
+Phishing,CSC 4-1
+Phishing,CSC 4-2
+Phishing,CSC 4-4
+Phishing,CSC 4-5
+Phishing,CSC 4-6
+Phishing,CSC 4-7
+Phishing,CSC 4-8
+Phishing,CSC 4-9
+Phishing,CSC 4-10
+Phishing,CSC 5-1
+Phishing,CSC 5-2
+Phishing,CSC 5-3
+Phishing,CSC 5-4
+Phishing,CSC 5-5
+Phishing,CSC 5-6
+Phishing,CSC 5-8
+Phishing,CSC 5-9
+Phishing,CSC 5-10
+Phishing,CSC 5-11
+Phishing,CSC 12-2
+Phishing,CSC 12-3
+Phishing,CSC 12-4
+Phishing,CSC 12-5
+Phishing,CSC 12-6
+Phishing,CSC 12-7
+Phishing,CSC 12-8
+Phishing,CSC 12-9
+Phishing,CSC 12-10
+Phishing,CSC 12-11
+Phishing,CSC 12-12
+Phishing,CSC 12-13
+Phishing,CSC 12-14
+Phishing,CSC 13-1
+Phishing,CSC 13-2
+Phishing,CSC 13-4
+Phishing,CSC 13-5
+Phishing,CSC 13-6
+Phishing,CSC 13-7
+Phishing,CSC 13-8
+Phishing,CSC 13-9
+Phishing,CSC 13-10
+Phishing,CSC 13-12
+Phishing,CSC 13-13
+Command and Control (C2),CSC 2-1
+Command and Control (C2),CSC 2-2
+Command and Control (C2),CSC 2-4
+Command and Control (C2),CSC 2-5
+Command and Control (C2),CSC 2-6
+Command and Control (C2),CSC 2-7
+Command and Control (C2),CSC 2-8
+Command and Control (C2),CSC 2-9
+Command and Control (C2),CSC 3-1
+Command and Control (C2),CSC 3-2
+Command and Control (C2),CSC 3-4
+Command and Control (C2),CSC 3-5
+Command and Control (C2),CSC 3-6
+Command and Control (C2),CSC 3-7
+Command and Control (C2),CSC 3-8
+Command and Control (C2),CSC 3-9
+Command and Control (C2),CSC 3-10
+Command and Control (C2),CSC 4-1
+Command and Control (C2),CSC 4-3
+Command and Control (C2),CSC 4-4
+Command and Control (C2),CSC 4-5
+Command and Control (C2),CSC 4-6
+Command and Control (C2),CSC 4-7
+Command and Control (C2),CSC 4-8
+Command and Control (C2),CSC 4-9
+Command and Control (C2),CSC 4-10
+Command and Control (C2),CSC 5-1
+Command and Control (C2),CSC 5-2
+Command and Control (C2),CSC 5-3
+Command and Control (C2),CSC 5-4
+Command and Control (C2),CSC 5-6
+Command and Control (C2),CSC 5-7
+Command and Control (C2),CSC 5-8
+Command and Control (C2),CSC 5-9
+Command and Control (C2),CSC 5-10
+Command and Control (C2),CSC 5-11
+Command and Control (C2),CSC 12-2
+Command and Control (C2),CSC 12-3
+Command and Control (C2),CSC 12-4
+Command and Control (C2),CSC 12-5
+Command and Control (C2),CSC 12-6
+Command and Control (C2),CSC 12-7
+Command and Control (C2),CSC 12-8
+Command and Control (C2),CSC 12-9
+Command and Control (C2),CSC 12-10
+Command and Control (C2),CSC 12-11
+Command and Control (C2),CSC 12-12
+Command and Control (C2),CSC 12-13
+Command and Control (C2),CSC 12-14
+Command and Control (C2),CSC 13-1
+Command and Control (C2),CSC 13-2
+Command and Control (C2),CSC 13-4
+Command and Control (C2),CSC 13-5
+Command and Control (C2),CSC 13-6
+Command and Control (C2),CSC 13-7
+Command and Control (C2),CSC 13-8
+Command and Control (C2),CSC 13-9
+Command and Control (C2),CSC 13-10
+Command and Control (C2),CSC 13-11
+Downloader (pull updates or other malware),CSC 2-2
+Downloader (pull updates or other malware),CSC 2-3
+Downloader (pull updates or other malware),CSC 2-4
+Downloader (pull updates or other malware),CSC 2-5
+Downloader (pull updates or other malware),CSC 2-6
+Downloader (pull updates or other malware),CSC 2-7
+Downloader (pull updates or other malware),CSC 2-8
+Downloader (pull updates or other malware),CSC 2-9
+Downloader (pull updates or other malware),CSC 3-1
+Downloader (pull updates or other malware),CSC 3-3
+Downloader (pull updates or other malware),CSC 3-4
+Downloader (pull updates or other malware),CSC 3-5
+Downloader (pull updates or other malware),CSC 3-6
+Downloader (pull updates or other malware),CSC 3-7
+Downloader (pull updates or other malware),CSC 3-8
+Downloader (pull updates or other malware),CSC 3-9
+Downloader (pull updates or other malware),CSC 3-10
+Downloader (pull updates or other malware),CSC 4-1
+Downloader (pull updates or other malware),CSC 4-3
+Downloader (pull updates or other malware),CSC 4-4
+Downloader (pull updates or other malware),CSC 4-5
+Downloader (pull updates or other malware),CSC 4-6
+Downloader (pull updates or other malware),CSC 4-7
+Downloader (pull updates or other malware),CSC 4-8
+Downloader (pull updates or other malware),CSC 4-9
+Downloader (pull updates or other malware),CSC 4-10
+Downloader (pull updates or other malware),CSC 5-1
+Downloader (pull updates or other malware),CSC 5-2
+Downloader (pull updates or other malware),CSC 5-3
+Downloader (pull updates or other malware),CSC 5-4
+Downloader (pull updates or other malware),CSC 5-5
+Downloader (pull updates or other malware),CSC 5-6
+Downloader (pull updates or other malware),CSC 5-7
+Downloader (pull updates or other malware),CSC 5-8
+Downloader (pull updates or other malware),CSC 5-9
+Downloader (pull updates or other malware),CSC 5-10
+Downloader (pull updates or other malware),CSC 5-11
+Programming Error (Flaws or bugs in custom code),CSC 6-1
+Programming Error (Flaws or bugs in custom code),CSC 6-2
+Programming Error (Flaws or bugs in custom code),CSC 6-3
+Programming Error (Flaws or bugs in custom code),CSC 6-4
+Programming Error (Flaws or bugs in custom code),CSC 6-5
+Programming Error (Flaws or bugs in custom code),CSC 6-6
+Programming Error (Flaws or bugs in custom code),CSC 6-7
+Programming Error (Flaws or bugs in custom code),CSC 6-8
+Programming Error (Flaws or bugs in custom code),CSC 6-9
+Misconfiguration,CSC 3-1
+Misconfiguration,CSC 3-2
+Misconfiguration,CSC 3-3
+Misconfiguration,CSC 3-4
+Misconfiguration,CSC 3-5
+Misconfiguration,CSC 3-6
+Misconfiguration,CSC 3-7
+Misconfiguration,CSC 3-8
+Misconfiguration,CSC 3-9
+Misconfiguration,CSC 3-10
+Misconfiguration,CSC 10-1
+Misconfiguration,CSC 10-2
+Misconfiguration,CSC 10-3
+Misconfiguration,CSC 10-4
+Misconfiguration,CSC 10-5
+Misconfiguration,CSC 10-6
+Password dumper (extract credential hashes),CSC 2-1
+Password dumper (extract credential hashes),CSC 2-2
+Password dumper (extract credential hashes),CSC 2-3
+Password dumper (extract credential hashes),CSC 2-4
+Password dumper (extract credential hashes),CSC 2-5
+Password dumper (extract credential hashes),CSC 2-6
+Password dumper (extract credential hashes),CSC 2-7
+Password dumper (extract credential hashes),CSC 2-8
+Password dumper (extract credential hashes),CSC 2-9
+Password dumper (extract credential hashes),CSC 3-1
+Password dumper (extract credential hashes),CSC 3-2
+Password dumper (extract credential hashes),CSC 3-3
+Password dumper (extract credential hashes),CSC 3-4
+Password dumper (extract credential hashes),CSC 3-5
+Password dumper (extract credential hashes),CSC 3-6
+Password dumper (extract credential hashes),CSC 3-7
+Password dumper (extract credential hashes),CSC 3-8
+Password dumper (extract credential hashes),CSC 3-9
+Password dumper (extract credential hashes),CSC 3-10
+Password dumper (extract credential hashes),CSC 4-1
+Password dumper (extract credential hashes),CSC 4-2
+Password dumper (extract credential hashes),CSC 4-3
+Password dumper (extract credential hashes),CSC 4-4
+Password dumper (extract credential hashes),CSC 4-5
+Password dumper (extract credential hashes),CSC 4-8
+Password dumper (extract credential hashes),CSC 4-9
+Password dumper (extract credential hashes),CSC 4-10
+Password dumper (extract credential hashes),CSC 5-1
+Password dumper (extract credential hashes),CSC 5-2
+Password dumper (extract credential hashes),CSC 5-3
+Password dumper (extract credential hashes),CSC 5-4
+Password dumper (extract credential hashes),CSC 5-5
+Password dumper (extract credential hashes),CSC 5-6
+Password dumper (extract credential hashes),CSC 5-7
+Password dumper (extract credential hashes),CSC 5-8
+Password dumper (extract credential hashes),CSC 5-9
+Password dumper (extract credential hashes),CSC 5-10
+Password dumper (extract credential hashes),CSC 5-11
+Password dumper (extract credential hashes),CSC 12-1
+Password dumper (extract credential hashes),CSC 12-2
+Password dumper (extract credential hashes),CSC 12-3
+Password dumper (extract credential hashes),CSC 12-4
+Password dumper (extract credential hashes),CSC 12-5
+Password dumper (extract credential hashes),CSC 12-6
+Password dumper (extract credential hashes),CSC 12-7
+Password dumper (extract credential hashes),CSC 12-8
+Password dumper (extract credential hashes),CSC 12-9
+Password dumper (extract credential hashes),CSC 12-10
+Password dumper (extract credential hashes),CSC 12-11
+Password dumper (extract credential hashes),CSC 12-12
+Password dumper (extract credential hashes),CSC 12-13
+Password dumper (extract credential hashes),CSC 12-14
+Disable or interfere with security controls,CSC 3-1
+Disable or interfere with security controls,CSC 3-2
+Disable or interfere with security controls,CSC 3-3
+Disable or interfere with security controls,CSC 3-4
+Disable or interfere with security controls,CSC 3-5
+Disable or interfere with security controls,CSC 3-6
+Disable or interfere with security controls,CSC 3-7
+Disable or interfere with security controls,CSC 3-8
+Disable or interfere with security controls,CSC 3-9
+Disable or interfere with security controls,CSC 3-10
+Disable or interfere with security controls,CSC 10-1
+Disable or interfere with security controls,CSC 10-2
+Disable or interfere with security controls,CSC 10-3
+Disable or interfere with security controls,CSC 10-4
+Disable or interfere with security controls,CSC 10-5
+Disable or interfere with security controls,CSC 10-6
+SQL Injection,CSC 6-1
+SQL Injection,CSC 6-2
+SQL Injection,CSC 6-3
+SQL Injection,CSC 6-4
+SQL Injection,CSC 6-5
+SQL Injection,CSC 6-6
+SQL Injection,CSC 6-7
+SQL Injection,CSC 6-8
+SQL Injection,CSC 6-9
+SQL Injection,CSC 6-10
+SQL Injection,CSC 6-11
+Use of unapproved hardware or devices,CSC 1-1
+Use of unapproved hardware or devices,CSC 1-2
+Use of unapproved hardware or devices,CSC 1-3
+Use of unapproved hardware or devices,CSC 1-4
+Use of unapproved hardware or devices,CSC 1-5
+Use of unapproved hardware or devices,CSC 1-6
+Use of unapproved hardware or devices,CSC 1-7
+Use of unapproved hardware or devices,CSC 17-1
+Use of unapproved hardware or devices,CSC 17-2
+Use of unapproved hardware or devices,CSC 17-3
+Use of unapproved hardware or devices,CSC 17-4
+Use of unapproved hardware or devices,CSC 17-5
+Use of unapproved hardware or devices,CSC 17-6
+Use of unapproved hardware or devices,CSC 17-7
+Use of unapproved hardware or devices,CSC 17-8
+Brute force or password guessing attack,CSC 14-1
+Brute force or password guessing attack,CSC 14-2
+Brute force or password guessing attack,CSC 14-3
+Brute force or password guessing attack,CSC 14-4
+Brute force or password guessing attack,CSC 14-5
+Brute force or password guessing attack,CSC 14-6
+Brute force or password guessing attack,CSC 14-7
+Brute force or password guessing attack,CSC 14-8
+Brute force or password guessing attack,CSC 14-9
+Brute force or password guessing attack,CSC 14-10
+Brute force or password guessing attack,CSC 15-1
+Brute force or password guessing attack,CSC 15-2
+Brute force or password guessing attack,CSC 15-3
+Brute force or password guessing attack,CSC 15-4
+Ram scraper or memory parser (capture data from volatile memory),CSC 2-1
+Ram scraper or memory parser (capture data from volatile memory),CSC 2-2
+Ram scraper or memory parser (capture data from volatile memory),CSC 2-3
+Ram scraper or memory parser (capture data from volatile memory),CSC 2-4
+Ram scraper or memory parser (capture data from volatile memory),CSC 2-5
+Ram scraper or memory parser (capture data from volatile memory),CSC 2-6
+Ram scraper or memory parser (capture data from volatile memory),CSC 2-7
+Ram scraper or memory parser (capture data from volatile memory),CSC 2-8
+Ram scraper or memory parser (capture data from volatile memory),CSC 2-9
+Ram scraper or memory parser (capture data from volatile memory),CSC 3-1
+Ram scraper or memory parser (capture data from volatile memory),CSC 3-2
+Ram scraper or memory parser (capture data from volatile memory),CSC 3-6
+Ram scraper or memory parser (capture data from volatile memory),CSC 3-7
+Ram scraper or memory parser (capture data from volatile memory),CSC 3-8
+Ram scraper or memory parser (capture data from volatile memory),CSC 3-9
+Ram scraper or memory parser (capture data from volatile memory),CSC 3-10
+Ram scraper or memory parser (capture data from volatile memory),CSC 4-1
+Ram scraper or memory parser (capture data from volatile memory),CSC 4-2
+Ram scraper or memory parser (capture data from volatile memory),CSC 4-3
+Ram scraper or memory parser (capture data from volatile memory),CSC 4-4
+Ram scraper or memory parser (capture data from volatile memory),CSC 4-5
+Ram scraper or memory parser (capture data from volatile memory),CSC 4-6
+Ram scraper or memory parser (capture data from volatile memory),CSC 4-7
+Ram scraper or memory parser (capture data from volatile memory),CSC 4-8
+Ram scraper or memory parser (capture data from volatile memory),CSC 4-9
+Ram scraper or memory parser (capture data from volatile memory),CSC 4-10
+Ram scraper or memory parser (capture data from volatile memory),CSC 5-1
+Ram scraper or memory parser (capture data from volatile memory),CSC 5-2
+Ram scraper or memory parser (capture data from volatile memory),CSC 5-5
+Ram scraper or memory parser (capture data from volatile memory),CSC 5-6
+Ram scraper or memory parser (capture data from volatile memory),CSC 5-7
+Ram scraper or memory parser (capture data from volatile memory),CSC 5-8
+Ram scraper or memory parser (capture data from volatile memory),CSC 5-9
+Ram scraper or memory parser (capture data from volatile memory),CSC 5-10
+Ram scraper or memory parser (capture data from volatile memory),CSC 12-1
+Ram scraper or memory parser (capture data from volatile memory),CSC 12-2
+Ram scraper or memory parser (capture data from volatile memory),CSC 12-3
+Ram scraper or memory parser (capture data from volatile memory),CSC 12-4
+Ram scraper or memory parser (capture data from volatile memory),CSC 12-5
+Ram scraper or memory parser (capture data from volatile memory),CSC 12-6
+Ram scraper or memory parser (capture data from volatile memory),CSC 12-7
+Ram scraper or memory parser (capture data from volatile memory),CSC 12-8
+Ram scraper or memory parser (capture data from volatile memory),CSC 12-9
+Ram scraper or memory parser (capture data from volatile memory),CSC 12-10
+Ram scraper or memory parser (capture data from volatile memory),CSC 12-11
+Ram scraper or memory parser (capture data from volatile memory),CSC 12-12
+Ram scraper or memory parser (capture data from volatile memory),CSC 12-13
+Ram scraper or memory parser (capture data from volatile memory),CSC 12-14
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 2-1
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 2-2
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 2-3
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 2-4
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 2-5
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 2-6
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 2-7
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 2-8
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 2-9
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 3-3
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 3-4
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 3-5
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 3-6
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 3-7
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 3-8
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 3-9
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 3-10
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 4-1
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 4-2
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 4-3
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 4-4
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 4-5
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 4-6
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 4-7
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 4-8
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 4-9
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 4-10
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 5-1
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 5-2
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 5-3
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 5-4
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 5-5
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 5-6
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 5-7
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 5-8
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 5-9
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 5-10
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 12-1
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 12-2
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 12-3
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 12-4
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 12-5
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 12-6
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 12-7
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 12-8
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 12-9
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 12-10
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 12-11
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 12-12
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 12-13
+"Spyware, keylogger or form-grabber (capture user input or activity)",CSC 12-14
+Use of Stolen Authentication Credentials,CSC 14-1
+Use of Stolen Authentication Credentials,CSC 14-2
+Use of Stolen Authentication Credentials,CSC 14-3
+Use of Stolen Authentication Credentials,CSC 14-4
+Use of Stolen Authentication Credentials,CSC 14-5
+Use of Stolen Authentication Credentials,CSC 14-6
+Use of Stolen Authentication Credentials,CSC 14-7
+Use of Stolen Authentication Credentials,CSC 14-8
+Use of Stolen Authentication Credentials,CSC 14-9
+Use of Stolen Authentication Credentials,CSC 14-10
+Use of Stolen Authentication Credentials,CSC 15-1
+Use of Stolen Authentication Credentials,CSC 15-2
+Use of Stolen Authentication Credentials,CSC 15-3
+Use of Stolen Authentication Credentials,CSC 15-4
+Capture data stored on system disk,CSC 14-1
+Capture data stored on system disk,CSC 14-2
+Capture data stored on system disk,CSC 14-3
+Capture data stored on system disk,CSC 14-4
+Capture data stored on system disk,CSC 14-5
+Capture data stored on system disk,CSC 14-6
+Capture data stored on system disk,CSC 14-7
+Capture data stored on system disk,CSC 14-8
+Capture data stored on system disk,CSC 14-9
+Capture data stored on system disk,CSC 14-10
+Capture data stored on system disk,CSC 15-1
+Capture data stored on system disk,CSC 15-2
+Capture data stored on system disk,CSC 15-3
+Capture data stored on system disk,CSC 15-4
+Capture data stored on system disk,CSC 17-1
+Capture data stored on system disk,CSC 17-2
+Capture data stored on system disk,CSC 17-3
+Capture data stored on system disk,CSC 17-4
+Capture data stored on system disk,CSC 17-5
+Capture data stored on system disk,CSC 17-6
+Capture data stored on system disk,CSC 17-7
+Capture data stored on system disk,CSC 17-8
+Capture data stored on system disk,CSC 17-9
+Capture data stored on system disk,CSC 17-10
+Capture data stored on system disk,CSC 17-11
+Capture data stored on system disk,CSC 17-12
+Capture data stored on system disk,CSC 17-13
+Capture data stored on system disk,CSC 17-14
+Capture data stored on system disk,CSC 17-15
+Abuse of system access privileges,CSC 12-1
+Abuse of system access privileges,CSC 12-2
+Abuse of system access privileges,CSC 12-3
+Abuse of system access privileges,CSC 12-4
+Abuse of system access privileges,CSC 12-5
+Abuse of system access privileges,CSC 12-6
+Abuse of system access privileges,CSC 12-7
+Abuse of system access privileges,CSC 12-8
+Abuse of system access privileges,CSC 12-9
+Abuse of system access privileges,CSC 12-10
+Abuse of system access privileges,CSC 12-11
+Abuse of system access privileges,CSC 12-12
+Abuse of system access privileges,CSC 12-13
+Abuse of system access privileges,CSC 12-14
+Abuse of system access privileges,CSC 14-1
+Abuse of system access privileges,CSC 14-2
+Abuse of system access privileges,CSC 14-3
+Abuse of system access privileges,CSC 14-4
+Abuse of system access privileges,CSC 14-5
+Abuse of system access privileges,CSC 14-6
+Abuse of system access privileges,CSC 14-7
+Abuse of system access privileges,CSC 14-8
+Abuse of system access privileges,CSC 14-9
+Abuse of system access privileges,CSC 14-10
+Abuse of system access privileges,CSC 15-1
+Abuse of system access privileges,CSC 15-2
+Abuse of system access privileges,CSC 15-3
+Abuse of system access privileges,CSC 15-4
+Abuse of system access privileges,CSC 16-1
+Abuse of system access privileges,CSC 16-2
+Abuse of system access privileges,CSC 16-3
+Abuse of system access privileges,CSC 16-4
+Abuse of system access privileges,CSC 16-5
+Abuse of system access privileges,CSC 16-6
+Abuse of system access privileges,CSC 16-7
+Abuse of system access privileges,CSC 16-8
+Abuse of system access privileges,CSC 16-9
+Abuse of system access privileges,CSC 16-10
+Abuse of system access privileges,CSC 16-11
+Abuse of system access privileges,CSC 16-12
+Abuse of system access privileges,CSC 16-13
+Abuse of system access privileges,CSC 16-14
+Abuse of system access privileges,CSC 16-15
+Abuse of system access privileges,CSC 16-16
+Abuse of system access privileges,CSC 16-17
+Tampering ** (Altering physical form or function),CSC 1-6
+Tampering ** (Altering physical form or function),CSC 13-13
+"Embezzlement, skimming, and related fraud **",CSC 14-1
+"Embezzlement, skimming, and related fraud **",CSC 14-2
+"Embezzlement, skimming, and related fraud **",CSC 14-3
+"Embezzlement, skimming, and related fraud **",CSC 14-4
+"Embezzlement, skimming, and related fraud **",CSC 14-5
+"Embezzlement, skimming, and related fraud **",CSC 14-6
+"Embezzlement, skimming, and related fraud **",CSC 14-7
+"Embezzlement, skimming, and related fraud **",CSC 14-8
+"Embezzlement, skimming, and related fraud **",CSC 14-9
+"Embezzlement, skimming, and related fraud **",CSC 14-10
+"Embezzlement, skimming, and related fraud **",CSC 15-1
+"Embezzlement, skimming, and related fraud **",CSC 15-2
+"Embezzlement, skimming, and related fraud **",CSC 15-3
+"Embezzlement, skimming, and related fraud **",CSC 15-4
+Theft ** (taking assets without permissions),CSC 1-1
+Theft ** (taking assets without permissions),CSC 1-2
+Theft ** (taking assets without permissions),CSC 1-3
+Theft ** (taking assets without permissions),CSC 1-4
+Theft ** (taking assets without permissions),CSC 1-5
+Theft ** (taking assets without permissions),CSC 1-6
+Theft ** (taking assets without permissions),CSC 1-7
+Theft ** (taking assets without permissions),CSC 14-1
+Theft ** (taking assets without permissions),CSC 14-2
+Theft ** (taking assets without permissions),CSC 14-3
+Theft ** (taking assets without permissions),CSC 14-4
+Theft ** (taking assets without permissions),CSC 14-5
+Theft ** (taking assets without permissions),CSC 14-6
+Theft ** (taking assets without permissions),CSC 14-7
+Theft ** (taking assets without permissions),CSC 14-8
+Theft ** (taking assets without permissions),CSC 14-9
+Theft ** (taking assets without permissions),CSC 14-10
+Theft ** (taking assets without permissions),CSC 17-1
+Theft ** (taking assets without permissions),CSC 17-5
+Bribery & Solicitation **,CSC 12-1
+Bribery & Solicitation **,CSC 12-2
+Bribery & Solicitation **,CSC 12-3
+Bribery & Solicitation **,CSC 12-4
+Bribery & Solicitation **,CSC 12-5
+Bribery & Solicitation **,CSC 12-6
+Bribery & Solicitation **,CSC 12-7
+Bribery & Solicitation **,CSC 12-8
+Bribery & Solicitation **,CSC 12-9
+Bribery & Solicitation **,CSC 12-10
+Bribery & Solicitation **,CSC 12-11
+Bribery & Solicitation **,CSC 12-12
+Bribery & Solicitation **,CSC 12-13
+Bribery & Solicitation **,CSC 12-14
+Bribery & Solicitation **,CSC 14-1
+Bribery & Solicitation **,CSC 14-2
+Bribery & Solicitation **,CSC 14-3
+Bribery & Solicitation **,CSC 14-4
+Bribery & Solicitation **,CSC 14-5
+Bribery & Solicitation **,CSC 14-6
+Bribery & Solicitation **,CSC 14-7
+Bribery & Solicitation **,CSC 14-8
+Bribery & Solicitation **,CSC 14-9
+Bribery & Solicitation **,CSC 14-10
+Bribery & Solicitation **,CSC 15-1
+Bribery & Solicitation **,CSC 15-2
+Bribery & Solicitation **,CSC 15-3
+Bribery & Solicitation **,CSC 15-4
+Misdelivery ** (direct or deliver to wrong recipient),CSC 6-1
+Misdelivery ** (direct or deliver to wrong recipient),CSC 15-4
+Misdelivery ** (direct or deliver to wrong recipient),CSC 17-1
+Misdelivery ** (direct or deliver to wrong recipient),CSC 17-2
+Misdelivery ** (direct or deliver to wrong recipient),CSC 17-3
+Misdelivery ** (direct or deliver to wrong recipient),CSC 17-4
+Misdelivery ** (direct or deliver to wrong recipient),CSC 17-5
+Misdelivery ** (direct or deliver to wrong recipient),CSC 17-6
+Misdelivery ** (direct or deliver to wrong recipient),CSC 17-7
+Misdelivery ** (direct or deliver to wrong recipient),CSC 17-8
+Misdelivery ** (direct or deliver to wrong recipient),CSC 17-9
+Misdelivery ** (direct or deliver to wrong recipient),CSC 17-10
+Misdelivery ** (direct or deliver to wrong recipient),CSC 17-11
+Misdelivery ** (direct or deliver to wrong recipient),CSC 17-12
+Misdelivery ** (direct or deliver to wrong recipient),CSC 17-13
+Misdelivery ** (direct or deliver to wrong recipient),CSC 17-14
+Misdelivery ** (direct or deliver to wrong recipient),CSC 17-15
+Loss or Misplacement **,CSC 1-6
+Loss or Misplacement **,CSC 3-10
+Loss or Misplacement **,CSC 17-1
+Loss or Misplacement **,CSC 17-5
