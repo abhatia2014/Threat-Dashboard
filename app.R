@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+#<<<<<<< HEAD
 # load required libraries
 =======
 #load required libraries
->>>>>>> 3411d93888d179220bc46b49c3e38f34f888d8f3
+#>>>>>>> 3411d93888d179220bc46b49c3e38f34f888d8f3
 library(shiny)
 library(shinydashboard)
 library(ggplot2)
